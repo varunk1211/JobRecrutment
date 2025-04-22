@@ -1,5 +1,4 @@
 absl-py==2.2.0
-altgraph @ file:///AppleInternal/Library/BuildRoots/2c89a47b-9dd5-11ef-938f-6e654a286000/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
 asttokens==3.0.0
 astunparse==1.6.3
 base32hex==1.0.2
@@ -30,7 +29,6 @@ Flask-SocketIO==5.5.1
 flatbuffers==25.2.10
 fonttools==4.56.0
 func-timeout==4.3.5
-future @ file:///AppleInternal/Library/BuildRoots/2c89a47b-9dd5-11ef-938f-6e654a286000/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
 fuzzywuzzy==0.18.0
 gast==0.6.0
 geographiclib==2.0
@@ -56,7 +54,6 @@ kiwisolver==1.4.7
 lazy_loader==0.4
 libclang==18.1.1
 lxml==5.3.1
-macholib @ file:///AppleInternal/Library/BuildRoots/2c89a47b-9dd5-11ef-938f-6e654a286000/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
 Markdown==3.7
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
@@ -104,7 +101,6 @@ selectivesearch==0.4
 Send2Trash==1.8.3
 silverware==2020.11.12
 simple-websocket==1.1.0
-six @ file:///AppleInternal/Library/BuildRoots/2c89a47b-9dd5-11ef-938f-6e654a286000/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
 sklearn==0.0
 slytherin==2020.11.12
 soupsieve==2.6
